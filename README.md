@@ -96,6 +96,27 @@ Just send a message to **dapole@me.com** ✉️
 
 ---
 
+## 🧩 Assets Used
+All assets included in this project are legally purchased and used under valid **commercial licenses**.  
+Each asset is integrated for prototype and future production use.
+
+### 🏗 Environment & Props
+- **[POLYGON Prototype - Low Poly 3D Art by Synty](https://assetstore.unity.com/packages/essentials/tutorial-projects/polygon-prototype-low-poly-3d-art-by-synty-137126)**  
+  Used for modular environments, buildings, props, and base elements.
+
+### ⚙️ VFX & Shaders
+
+### 🎨 UI & Icons
+- Custom minimalist sci-fi UI kit (Figma → Unity).  
+
+### 🔊 Audio
+
+
+### 🧱 Models & Characters
+
+
+---
+
 ## 💬 License
 Prototype build © 2025 Denis Poleshchikov (GDMage).  
 For Game Off 2025 Jam use only.  
