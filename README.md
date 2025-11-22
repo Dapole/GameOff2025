@@ -67,7 +67,8 @@ The goal is a solid foundation to expand into a full demo for **Tower Defense Fe
 |------|--------------|
 | 🎮 Game Design / PM | Denis Poleshchikov |
 | 💻 Programmer | TBD |
-| 🎨 2D/3D Artist | [Georgii Chertovskee](https://www.chertovskee.art/) |
+| 🎨 2D Artist | [Georgii Chertovskee](https://www.chertovskee.art/) |
+| 🎨 3D Artist | TBD |
 | 🔊 Sound Designer | TBD |
 
 ## 🤝 Join the Project
